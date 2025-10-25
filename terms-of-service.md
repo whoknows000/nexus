@@ -1,4 +1,4 @@
-# Terms of Service for [Your App Name]
+# Terms of Service for Nexus
 
 **By using our bot, you agree to:**
 - Follow Discord's Terms of Service
